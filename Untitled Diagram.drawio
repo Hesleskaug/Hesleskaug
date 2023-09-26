@@ -1,0 +1,77 @@
+<mxfile host="app.diagrams.net" modified="2023-09-26T06:53:16.419Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" version="21.8.2" etag="0MtFV4hvONHo1BnooIva" type="github">
+  <diagram name="Page-1" id="hIxOdooueKHE-sOQqD9I">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Sale" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry width="45" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Design and Planning" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="188" width="158" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Manufacturing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="527" width="118" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Quality Control" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="796" width="124" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Product Assembly" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1121" width="141" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Product Testing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1459" width="125" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Packaging" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1717" width="85" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Shipping" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1962" width="75" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Implemented Product" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2203" width="170" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="Order placed" style="curved=1;startArrow=none;endArrow=block;exitX=0.9960069444444445;exitY=0.5;entryX=0.0011867088607594937;entryY=0.5;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="Approval received" style="curved=1;startArrow=none;endArrow=block;exitX=1.0006922468354431;exitY=0.5;entryX=-0.002714512711864407;entryY=0.5;" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" value="Product ready" style="curved=1;startArrow=none;endArrow=block;exitX=0.9983448093220338;exitY=0.5;entryX=-0.001701108870967742;entryY=0.5;" edge="1" parent="1" source="4" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14" value="Quality check passed" style="curved=1;startArrow=none;endArrow=block;exitX=1.001071068548387;exitY=0.5;entryX=-0.0026041666666666665;entryY=0.5;" edge="1" parent="1" source="5" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" value="Assembly completed" style="curved=1;startArrow=none;endArrow=block;exitX=0.9964539007092199;exitY=0.5;entryX=0.0036875;entryY=0.5;" edge="1" parent="1" source="6" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16" value="Test passed" style="curved=1;startArrow=none;endArrow=block;exitX=1.0005625;exitY=0.5;entryX=-0.003125;entryY=0.5;" edge="1" parent="1" source="7" target="8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17" value="Packaging done" style="curved=1;startArrow=none;endArrow=block;exitX=1.0009191176470589;exitY=0.5;entryX=0.006458333333333333;entryY=0.5;" edge="1" parent="1" source="8" target="9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18" value="Product shipped" style="curved=1;startArrow=none;endArrow=block;exitX=1.00875;exitY=0.5;entryX=-0.0017003676470588236;entryY=0.5;" edge="1" parent="1" source="9" target="10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
