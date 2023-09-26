@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" modified="2023-09-26T06:56:55.274Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" version="21.8.2" etag="m4176XipXa8P1ABNt9_7" type="github">
+  <diagram name="Page-1" id="OyX04bIdLHQ4_JAxAHk_">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="SalesSignature" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="5" width="119" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="SalesOrder" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="18" y="103" width="93" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Implementation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry y="206" width="129" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Completed" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="18" y="309" width="93" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Generate Order" style="curved=1;startArrow=none;endArrow=block;exitX=0.5003610819327731;exitY=1;entryX=0.5004620295698925;entryY=0;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7" value="Process Order" style="curved=1;startArrow=none;endArrow=block;exitX=0.5004620295698925;exitY=1;entryX=0.5003330910852714;entryY=0;" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8" value="Deliver Product" style="curved=1;startArrow=none;endArrow=block;exitX=0.5003330910852714;exitY=1;entryX=0.5004620295698925;entryY=0;" edge="1" parent="1" source="4" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
